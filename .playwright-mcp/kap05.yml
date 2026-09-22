@@ -1,0 +1,380 @@
+- generic [active] [ref=e1]:
+  - complementary "Kursnavigation" [ref=e2]:
+    - link "JobRad · Startseite" [ref=e4] [cursor=pointer]:
+      - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/
+      - img "JobRad" [ref=e5]
+    - link "Startseite" [ref=e7] [cursor=pointer]:
+      - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/
+    - generic [ref=e11]: Module
+    - list [ref=e12]:
+      - listitem [aria-hidden] [ref=e13]:
+        - generic [ref=e14]: Fundament
+      - listitem [ref=e15] [cursor=pointer]:
+        - link "Einrichten" [ref=e16]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-00-einrichten/
+        - generic [ref=e17]: M0
+        - generic: Einrichten
+      - listitem [ref=e18] [cursor=pointer]:
+        - link "Git & GitHub" [ref=e19]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-01-git-github/
+        - generic [ref=e20]: M1
+        - generic: Git & GitHub
+      - listitem [ref=e21] [cursor=pointer]:
+        - link "OpenCode & Modelle" [ref=e22]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-02-opencode/
+        - generic [ref=e23]: M2
+        - generic: OpenCode & Modelle
+      - listitem [aria-hidden] [ref=e24]:
+        - generic [ref=e25]: Kompetenz
+      - listitem [ref=e26] [cursor=pointer]:
+        - link "Prompt Engineering" [ref=e27]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-03-prompt-engineering/
+        - generic [ref=e28]: M3
+        - generic: Prompt Engineering
+      - listitem [ref=e29] [cursor=pointer]:
+        - link "Agenten & Kontext" [ref=e30]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-04-agenten-kontext/
+        - generic [ref=e31]: M4
+        - generic: Agenten & Kontext
+      - listitem [ref=e32] [cursor=pointer]:
+        - link "AGENTS.md" [ref=e33]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-05-agents-md/
+        - generic [ref=e34]: M5
+        - generic: AGENTS.md
+      - listitem [aria-hidden] [ref=e35]:
+        - generic [ref=e36]: Eigenständigkeit
+      - listitem [ref=e37] [cursor=pointer]:
+        - link "Skill-Konzepte" [ref=e38]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-06-eigene-skills/
+        - generic [ref=e39]: M6
+        - generic: Skill-Konzepte
+      - listitem [ref=e40] [cursor=pointer]:
+        - link "MCP-Konzept" [ref=e41]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-07-mcp-werkzeuge/
+        - generic [ref=e42]: M7
+        - generic: MCP-Konzept
+      - listitem [ref=e43] [cursor=pointer]:
+        - link "UX und PM Automation" [ref=e44]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-08-ux-pm-automation/
+        - generic [ref=e45]: M8
+        - generic: UX und PM Automation
+    - generic [ref=e46]:
+      - generic [ref=e47]: Extra
+      - link "Kritisch bleiben" [ref=e48] [cursor=pointer]:
+        - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/kritisch-bleiben.html
+    - button "Ausklappen" [ref=e53] [cursor=pointer]
+  - complementary "Kapitel" [ref=e56]:
+    - paragraph [ref=e57]: OpenCode & Modelle
+    - heading "Modul 2" [level=2] [ref=e58]
+    - list [ref=e59]:
+      - listitem [ref=e60]:
+        - link "↑ Modulübersicht" [ref=e61] [cursor=pointer]:
+          - /url: ../
+          - generic [ref=e62]: ↑
+          - generic [ref=e63]: Modulübersicht
+      - listitem [ref=e64]:
+        - link "2.1 OpenCode verstehen" [ref=e65] [cursor=pointer]:
+          - /url: ../chapter-01/
+          - generic [ref=e66]: "2.1"
+          - generic [ref=e67]: OpenCode verstehen
+      - listitem [ref=e69]:
+        - link "2.2 Modelle & Provider" [ref=e70] [cursor=pointer]:
+          - /url: ../chapter-02/
+          - generic [ref=e71]: "2.2"
+          - generic [ref=e72]: Modelle & Provider
+      - listitem [ref=e74]:
+        - link "2.3 LiteLLM als Gateway" [ref=e75] [cursor=pointer]:
+          - /url: ../chapter-03/
+          - generic [ref=e76]: "2.3"
+          - generic [ref=e77]: LiteLLM als Gateway
+      - listitem [ref=e79]:
+        - link "2.4 Kosten & Kontext" [ref=e80] [cursor=pointer]:
+          - /url: ../chapter-04/
+          - generic [ref=e81]: "2.4"
+          - generic [ref=e82]: Kosten & Kontext
+      - listitem [ref=e84]:
+        - link "2.5 Erster Workflow" [ref=e85] [cursor=pointer]:
+          - /url: "#start"
+          - generic [ref=e86]: "2.5"
+          - generic [ref=e87]: Erster Workflow
+    - generic [ref=e89]:
+      - paragraph [ref=e90]: In diesem Kapitel
+      - list [ref=e91]:
+        - listitem [ref=e92]:
+          - link "Überblick" [ref=e93] [cursor=pointer]:
+            - /url: "#start"
+        - listitem [ref=e94]:
+          - link "Einfach anfangen" [ref=e95] [cursor=pointer]:
+            - /url: "#loslegen"
+        - listitem [ref=e96]:
+          - link "Den ersten Screen sehen" [ref=e97] [cursor=pointer]:
+            - /url: "#erster-screen"
+        - listitem [ref=e98]:
+          - link "Mit Kollegen teilen" [ref=e99] [cursor=pointer]:
+            - /url: "#teilen"
+        - listitem [ref=e100]:
+          - link "Übung" [ref=e101] [cursor=pointer]:
+            - /url: "#uebung"
+        - listitem [ref=e102]:
+          - link "Mini-Glossar" [ref=e103] [cursor=pointer]:
+            - /url: "#glossar"
+        - listitem [ref=e104]:
+          - link "Modul-Zusammenfassung" [ref=e105] [cursor=pointer]:
+            - /url: "#zusammenfassung"
+  - banner [ref=e107]:
+    - link "AI × UX & PM Lernplattform" [ref=e108] [cursor=pointer]:
+      - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/
+      - generic [ref=e109]: AI × UX & PM
+      - strong [ref=e110]: Lernplattform
+    - generic [ref=e111]:
+      - button "Suche öffnen" [ref=e112] [cursor=pointer]: Suche
+      - link "Glossar" [ref=e116] [cursor=pointer]:
+        - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/module-02-opencode/glossar.html
+      - navigation "Sprache" [ref=e117]:
+        - strong [ref=e118]: DE
+        - link "EN" [ref=e119] [cursor=pointer]:
+          - /url: https://056d348635ad.gears.jobrad.dev/storage/christian.lampe/ai-learning-platform/ux_x_ai_kurs/main/1/en/module-02-opencode/chapter-05/index.html
+  - main [ref=e120]:
+    - article [ref=e121]:
+      - generic [ref=e122]:
+        - button "Zurück" [ref=e123] [cursor=pointer]
+        - generic [ref=e126]:
+          - generic [ref=e127]: Kapitel 2.5
+          - generic [ref=e128]: Abschlusskapitel
+        - paragraph [ref=e129]: OpenCode als UX- und PM-Werkstatt
+        - heading [level=1] [ref=e130]:
+          - text: Du beschreibst.
+          - emphasis [ref=e131]: OpenCode baut.
+        - paragraph [ref=e132]:
+          - text: Du gibst Stack, Dateien und sichtbares Ergebnis verbindlich vor.
+          - 'button "OpenCode: Die agentische Arbeitsumgebung im Terminal, in der du mit KI an deinem Projekt arbeitest." [ref=e133]': OpenCode
+          - text: richtet den kanonischen
+          - 'button "Prototyp-Slice: Ein kleiner, durchgängig funktionierender Ausschnitt – hier ein Antragsschritt mit Fortschrittsanzeige." [ref=e134]': Prototyp-Slice
+          - text: ein; danach prüfst du Entwicklungsserver, Produktions-Build und dokumentierten Projektzustand.
+        - link "Zu den Lernzielen →" [ref=e136] [cursor=pointer]:
+          - /url: "#lernziele"
+      - region [ref=e137]:
+        - generic [ref=e138]:
+          - text: Lernziele
+          - heading "Danach kannst du …" [level=2] [ref=e139]
+        - list [ref=e140]:
+          - listitem [ref=e141]:
+            - generic [ref=e142]: "01"
+            - generic [ref=e143]:
+              - 'button "OpenCode: Die agentische Arbeitsumgebung im Terminal, in der du mit KI an deinem Projekt arbeitest." [ref=e144]': OpenCode
+              - text: mit einem deterministischen
+              - 'button "Prompt: Die Anweisung, mit der du dem Agenten eine Aufgabe gibst." [ref=e145]': Prompt
+              - text: den kanonischen
+              - 'button "Prototyp: Eine lauffähige, aber vereinfachte Version einer App – hier ohne echtes Backend." [ref=e146]': Prototyp
+              - text: aufsetzen lassen.
+          - listitem [ref=e147]:
+            - generic [ref=e148]: "02"
+            - generic [ref=e149]:
+              - code [ref=e150]: PROJECT-STATE.md
+              - text: ","
+              - code [ref=e151]: npm run dev
+              - text: und
+              - code [ref=e152]: npm run build
+              - text: prüfen.
+          - listitem [ref=e153]:
+            - generic [ref=e154]: "03"
+            - generic [ref=e155]: Abweichungen vor der weiteren Arbeit auf den kanonischen Zustand korrigieren.
+          - listitem [ref=e156]:
+            - generic [ref=e157]: "04"
+            - generic [ref=e158]:
+              - text: den
+              - 'button "Prototyp: Eine lauffähige, aber vereinfachte Version einer App – hier ohne echtes Backend." [ref=e159]': Prototyp
+              - text: nach bestandenem Pflichtcheck aus Modul 0 optional über Gears teilen.
+      - generic [ref=e160]:
+        - generic [ref=e161]:
+          - generic [ref=e162]: "01"
+          - generic [ref=e163]:
+            - paragraph [ref=e164]: Der erste Prompt
+            - heading "Den Ausgangszustand verbindlich festlegen." [level=2] [ref=e165]
+        - paragraph [ref=e166]:
+          - text: Öffne
+          - 'button "OpenCode: Die agentische Arbeitsumgebung im Terminal, in der du mit KI an deinem Projekt arbeitest." [ref=e167]': OpenCode
+          - text: im bestehenden
+          - code [ref=e168]: jobrad-antrag
+          - text: "-Repository und sende den"
+          - 'button "Prompt: Die Anweisung, mit der du dem Agenten eine Aufgabe gibst." [ref=e169]': Prompt
+          - text: vollständig. Der
+          - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e170]': Agent
+          - text: baut selbst, aber nicht beliebig.
+        - generic "Deterministischer erster Build-Prompt" [ref=e171]:
+          - code [ref=e172]:
+            - text: "Lies zuerst documentation/project-state.md und übernimm die dort notierte echte Progress-Issue-Nummer. Lies danach documentation/progress-indicator-brief.md, falls die Datei vorhanden ist. Richte anschließend im bestehenden Repository einen Frontend-Prototyp mit React + TypeScript + Vite ein. Verwende npm als Paketmanager und Tailwind CSS für das Styling. Verwende kein zusätzliches Komponenten-Framework.Erzeuge bzw. verwende verbindlich diese Dateien:- src/components/ApplicationStep.tsx- src/components/ApplicationForm.tsx- src/components/ProgressIndicator.tsx- src/tokens.ts- src/App.tsxBaue einen vertikalen Prototyp-Slice, keine komplette Antragsstrecke: ApplicationForm rendert einen vorbereiteten Antragsschritt „Freigabe durch deinen Arbeitgeber\" und integriert darüber ProgressIndicator. Die vier Schritte heißen exakt: „Freigabe\", „Rad auswählen\", „Bike-Services\", „Abschluss\". Der erste Schritt ist aktiv. Verwende für Flächen des aktiven Status #B0E572 mit dunklem Text #2B373D; verwende keinen weißen Text auf diesem Grün. Status müssen zusätzlich über Text oder Icon erkennbar sein.package.json muss die Scripts „dev\" für Vite und „build\" für den TypeScript-/Vite-Produktions-Build enthalten. Richte in diesem Schritt keine Tests und kein test-Script ein. Führe npm run build aus und behebe Build-Fehler.Erzeuge danach PROJECT-STATE.md im Repository-Root. Übernimm die tatsächliche Issue-Nummer unverändert aus documentation/project-state.md. Ab jetzt ist ausschließlich die Root-Datei PROJECT-STATE.md die kanonische Quelle; documentation/project-state.md bleibt als Verlauf aus Modul 1 bestehen und wird nicht parallel gepflegt. Dokumentiere außerdem: Framework und Version, TypeScript, Vite, Tailwind, Paketmanager npm, verfügbare package.json-Scripts, die fünf verbindlichen Dateipfade, die vom Dev-Server ausgegebene URL sowie das Ergebnis von npm run build. Ändere keine Research- oder Dokumentationsinhalte."
+            - button "Zeile kopieren" [ref=e186] [cursor=pointer]
+        - complementary [ref=e190]:
+          - generic [ref=e191]: Agentisch und reproduzierbar
+          - paragraph [ref=e192]: Du schreibst keinen Code selbst. Du setzt jedoch den technischen Vertrag fest, damit alle späteren Kapitel dieselben Dateien und Befehle vorfinden.
+      - complementary [ref=e193]:
+        - generic [ref=e194]: Quellenwechsel in Modul 2
+        - paragraph [ref=e195]:
+          - text: Lies
+          - code [ref=e196]: documentation/project-state.md
+          - text: ", übernimm die dort notierte echte Progress-Issue-Nummer unverändert in die neu erzeugte Root-Datei"
+          - code [ref=e197]: PROJECT-STATE.md
+          - text: und prüfe beide Werte. Danach gilt nur noch
+          - code [ref=e198]: PROJECT-STATE.md
+          - text: als kanonische Quelle für Projektzustand und Issue-Nummer; die frühe Datei bleibt als Verlauf aus Modul 1 bestehen und wird nicht parallel gepflegt.
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - generic [ref=e201]: "02"
+          - generic [ref=e202]:
+            - paragraph [ref=e203]: Prüfen
+            - heading "Projektzustand, Browser und Build." [level=2] [ref=e204]
+        - paragraph [ref=e205]:
+          - text: Lies zuerst
+          - code [ref=e206]: PROJECT-STATE.md
+          - text: . Prüfe dann selbst
+          - code [ref=e207]: npm run dev
+          - text: ", öffne die dort dokumentierte URL und führe anschließend"
+          - code [ref=e208]: npm run build
+          - text: aus.
+        - paragraph [ref=e210]:
+          - text: Im Browser müssen der vorbereitete Freigabe-Schritt und die vier Schritte der Fortschrittsanzeige sichtbar sein. Der aktive Status nutzt dunklen Text
+          - code [ref=e211]: "#2B373D"
+          - text: auf
+          - code [ref=e212]: "#B0E572"
+          - text: und bleibt zusätzlich über Text oder Icon verständlich.
+        - complementary [ref=e213]:
+          - generic [ref=e214]: Bei Abweichung stoppen
+          - paragraph [ref=e215]:
+            - text: Fehlt eine kanonische Datei, wurde ein anderer Stack gewählt oder schlagen
+            - code [ref=e216]: dev
+            - text: /
+            - code [ref=e217]: build
+            - text: "fehl, arbeite nicht im Kurs weiter. Nutze zuerst diesen Korrekturprompt:"
+        - generic "Korrekturprompt" [ref=e218]:
+          - code [ref=e219]:
+            - text: Lies PROJECT-STATE.md und prüfe den aktuellen Stand gegen den kanonischen Zustand aus meinem ersten Build-Prompt. Bringe das Projekt exakt auf React + TypeScript + Vite + npm + Tailwind und die dort genannten fünf Dateipfade. Entferne keine fachlichen Inhalte. Richte keine Tests ein. Führe npm run build aus und aktualisiere PROJECT-STATE.md. Liste danach jede behobene Abweichung auf.
+            - button "Zeile kopieren" [ref=e220] [cursor=pointer]
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - generic [ref=e226]: "03"
+          - generic [ref=e227]:
+            - paragraph [ref=e228]: Optional teilen
+            - heading "Gears erst nach dem Pflichtcheck." [level=2] [ref=e229]
+        - paragraph [ref=e230]: Gears ist kein garantierter Teil des Builds. Nutze es nur, wenn du den Gears-Pflichtcheck aus Modul 0 bestanden hast und dein Playground tatsächlich eingerichtet ist.
+        - paragraph [ref=e232]:
+          - text: Erst wenn
+          - code [ref=e233]: npm run build
+          - text: erfolgreich ist, darfst du den
+          - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e234]': Agenten
+          - text: nach der in Modul 0 geprüften Gears-Anleitung deployen lassen. Ohne bestandenen Pflichtcheck bleibt der
+          - 'button "Prototyp: Eine lauffähige, aber vereinfachte Version einer App – hier ohne echtes Backend." [ref=e235]': Prototyp
+          - 'button "Lokal: Das Repository auf dem Mac – die eigene Arbeitskopie." [ref=e236]': lokal
+          - text: ; es gibt kein Versprechen auf eine interne URL.
+      - generic [ref=e237]:
+        - generic [ref=e238]:
+          - generic [ref=e239]: "04"
+          - generic [ref=e240]:
+            - paragraph [ref=e241]: ✎ Praxis
+            - heading "Die Baseline abnehmen." [level=2] [ref=e242]
+        - paragraph [ref=e243]:
+          - text: Prüfe den vom
+          - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e244]': Agenten
+          - text: erzeugten Zustand, bevor ein späteres Modul darauf aufbaut.
+        - list [ref=e245]:
+          - listitem [ref=e246]:
+            - generic [ref=e247]: "01"
+            - generic [ref=e248]:
+              - strong [ref=e249]: Zustand lesen
+              - paragraph [ref=e250]:
+                - text: Öffne
+                - code [ref=e251]: PROJECT-STATE.md
+                - text: und gleiche Stack, Scripts und Dateipfade mit dem Build-Prompt ab.
+          - listitem [ref=e252]:
+            - generic [ref=e253]: "02"
+            - generic [ref=e254]:
+              - strong [ref=e255]: Browser prüfen
+              - paragraph [ref=e256]:
+                - text: Starte
+                - code [ref=e257]: npm run dev
+                - text: . Prüfe Antragsschritt, Integration, vier Schrittnamen und mobile Darstellung.
+          - listitem [ref=e258]:
+            - generic [ref=e259]: "03"
+            - generic [ref=e260]:
+              - strong [ref=e261]: Build prüfen
+              - paragraph [ref=e262]:
+                - text: Führe
+                - code [ref=e263]: npm run build
+                - text: aus. Bei jeder Abweichung zuerst den Korrekturprompt verwenden und erst nach erfolgreicher Prüfung fortfahren.
+        - group [ref=e264]:
+          - generic "Worauf es ankommt" [ref=e265] [cursor=pointer]
+      - generic [ref=e266]:
+        - generic [ref=e267]:
+          - generic [ref=e268]: "05"
+          - generic [ref=e269]:
+            - paragraph [ref=e270]: Nachschlagen
+            - heading "Mini-Glossar" [level=2] [ref=e271]
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - term [ref=e274]: Prototyp-Slice
+            - definition [ref=e275]: Ein kleiner, durchgängig funktionierender Ausschnitt – hier ein Antragsschritt mit Fortschrittsanzeige, nicht die komplette Strecke.
+          - generic [ref=e276]:
+            - term [ref=e277]: PROJECT-STATE.md
+            - definition [ref=e278]:
+              - text: Vom
+              - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e279]': Agenten
+              - text: erzeugte Übergabedatei mit tatsächlichem Stack, Scripts, Pfaden, Dev-URL und Build-Ergebnis.
+          - generic [ref=e280]:
+            - term [ref=e281]: Komponente
+            - definition [ref=e282]: Ein wiederverwendbarer UI-Baustein, z. B. ein Antragsschritt.
+          - generic [ref=e283]:
+            - term [ref=e284]: Diff
+            - definition [ref=e285]:
+              - text: Die Gegenüberstellung zweier Dateistände – zeigt, welche Dateien der
+              - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e286]': Agent
+              - text: angefasst und was er hinzugefügt oder entfernt hat.
+          - generic [ref=e287]:
+            - term [ref=e288]: Gears
+            - definition [ref=e289]: Optionaler interner Hosting-Service, der nur nach bestandenem Pflichtcheck aus Modul 0 eingesetzt wird.
+      - generic [ref=e290]:
+        - text: "06"
+        - heading "Modul 2 – das hast du gelernt." [level=2] [ref=e291]
+        - generic [ref=e292]:
+          - article [ref=e293]:
+            - text: "01"
+            - strong [ref=e294]: Werkstatt
+            - paragraph [ref=e295]:
+              - text: Du verstehst
+              - 'button "OpenCode: Die agentische Arbeitsumgebung im Terminal, in der du mit KI an deinem Projekt arbeitest." [ref=e296]': OpenCode
+              - text: als
+              - 'button "Agent: Ein KI-Assistent, der nicht nur antwortet, sondern eigenständig Dateien liest, schreibt und Werkzeuge nutzt." [ref=e297]': Agenten
+              - text: in deinem Projekt – nicht als Chat-Tool. Du weißt, wie eine
+              - 'button "Session: Ein zusammenhängender Arbeitsverlauf mit dem Agenten, inklusive gesammeltem Kontext." [ref=e298]': Session
+              - text: abläuft und wo deine Verantwortung liegt.
+          - article [ref=e299]:
+            - text: "02"
+            - strong [ref=e300]: Modelle
+            - paragraph [ref=e301]:
+              - text: Du wählst Modelle bewusst nach Aufgabe und nutzt
+              - 'button "LiteLLM: Ein Gateway, das viele Modellanbieter unter einer einheitlichen, OpenAI-kompatiblen API zugänglich macht." [ref=e302]': LiteLLM
+              - text: als einheitlichen Zugang – unabhängig vom
+              - 'button "Provider: Ein Anbieter von KI-Modellen, z. B. OpenAI, Anthropic oder Google." [ref=e303]': Provider
+              - text: dahinter.
+          - article [ref=e304]:
+            - text: "03"
+            - strong [ref=e305]: Baseline
+            - paragraph [ref=e306]:
+              - text: Du lässt den kanonischen
+              - 'button "Prototyp-Slice: Ein kleiner, durchgängig funktionierender Ausschnitt – hier ein Antragsschritt mit Fortschrittsanzeige." [ref=e307]': Prototyp-Slice
+              - text: bauen und prüfst ihn mit PROJECT-STATE.md, Dev-Server und Produktions-Build.
+        - paragraph [ref=e308]: Dein vorbereiteter Antragsschritt hat jetzt eine funktionierende Fortschrittsanzeige. Eine komplette Leasing-Antragsstrecke wurde bewusst nicht gebaut.
+        - button "✓ Kapitel als abgeschlossen markieren" [ref=e309] [cursor=pointer]:
+          - generic [ref=e310]: ✓
+          - text: Kapitel als abgeschlossen markieren
+      - generic [ref=e311]:
+        - link "← Zur Modulübersicht" [ref=e312] [cursor=pointer]:
+          - /url: ../
+        - text: Ausblick · Modul 3
+        - heading "Prompt Engineering" [level=2] [ref=e313]
+        - paragraph [ref=e314]:
+          - text: "In Modul 3 vertiefst du, was du hier schon angewendet hast: Rollen,"
+          - 'button "Kontext: Dateien, Regeln, Beispiele und Hintergrund, die der Agent für eine Aufgabe braucht." [ref=e315]': Kontext
+          - text: ","
+          - 'button "Grenzen: Explizite Einschränkungen im Prompt, was der Agent nicht verändern oder erstellen darf." [ref=e316]': Grenzen
+          - text: und Ausgabeformate gezielt einsetzen – direkt an deiner wachsenden Antragsstrecke.
+  - button "Zum Seitenanfang" [ref=e318] [cursor=pointer]: ↑
