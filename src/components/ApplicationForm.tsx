@@ -7,7 +7,7 @@ export function ApplicationForm() {
     <div className="mx-auto max-w-2xl">
       <ProgressIndicator steps={steps} />
       <div className="mt-8">
-        <ApplicationStep title="Freigabe durch deinen Arbeitgeber" statusText="Aktiver Schritt">
+        <ApplicationStep title="Warte auf die Freigabe deines Arbeitgebers" statusText="Aktiver Schritt">
           <p className="text-[#2B373D]">
             Dein Arbeitgeber muss den JobRad-Antrag zuerst freigeben. Sobald die Freigabe vorliegt,
             kannst du im nächsten Schritt dein Wunschrad auswählen.
